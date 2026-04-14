@@ -14,7 +14,7 @@ I'm Head-Over-Heels for the Art of Programming, and I sprinkle digital glitter t
 
 
 ## Education
-- **Jambi University**, Information Systems, I have been enrolled in University from 2019 to the present.
+- **Jambi University**, Information Systems.
 
 ## Find Me Around The Web
 - [LinkedIn](https://www.linkedin.com/in/dwi-abdi-putra-a738421ba)
