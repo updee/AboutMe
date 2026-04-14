@@ -3,7 +3,9 @@
 
 ## About Me
 I'm Head-Over-Heels for the Art of Programming, and I sprinkle digital glitter to create beautiful things by code!
-(Nvrmind, I'm just the Google Search Maestro in the world of coding)
+(Never mind, I debug by Googling error messages and praying.)
+I enjoy solving problems, exploring new technologies, and crafting clean, efficient solutions.
+
 ## Skills
 
 - **Languages:** JavaScript, Python, Java
@@ -21,6 +23,6 @@ I'm Head-Over-Heels for the Art of Programming, and I sprinkle digital glitter t
 - [GitHub](https://github.com/updee)
 - [Instagram](https://www.instagram.com/_____abdiip)
 
-Feel free to reach out to me at abdiiputra190901@gmail.com to discuss anything related to coding and programing.
+Feel free to reach out to me at abdiiputra190901@gmail.com, whether it’s coding, debugging chaos, or just figuring out the right thing to Google next.
 
 Let's connect and explore opportunities together! 😊
